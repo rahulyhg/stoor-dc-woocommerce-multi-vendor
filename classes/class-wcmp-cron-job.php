@@ -106,7 +106,7 @@ class WCMp_Cron_Job {
     public function vendor_weekly_order_stats_report() {
         global $WCMp;
         $vendors = get_wcmp_vendors();
-        if ($vendors) {
+        if (count($order_data) > 0) {
             foreach ($vendors as $key => $vendor_obj) {
                 if ($vendor_obj->user_data->user_email) {
                     $order_data = array();
