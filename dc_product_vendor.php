@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WC Marketplace
+ * Plugin Name: WC Marketplace Stoor version
  * Plugin URI: https://wc-marketplace.com/
  * Description: A Free Extension That Transforms Your WooCommerce Site into a Marketplace.
  * Author: WC Marketplace, The Grey Parrots
